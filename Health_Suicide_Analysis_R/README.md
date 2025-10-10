@@ -22,7 +22,7 @@ Suicide rates by gender
 Suicide rates by age group
 GDP vs suicide rate
 
-💡 Insights
+Insights
 Suicide rates peaked around early 2000s, then declined slightly after 2010.
 Males have consistently higher suicide rates than females.
 Middle-aged and older adults show higher vulnerability.
@@ -39,3 +39,4 @@ Suicide is influenced by multiple social and economic factors.
 The analysis highlights the need for continued prevention and mental health awareness globally.
 
 Author
+Maria Sandra Mwaniki 
