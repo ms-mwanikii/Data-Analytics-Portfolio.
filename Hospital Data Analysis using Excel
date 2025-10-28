@@ -1,0 +1,47 @@
+ Hospital Data Analysis using Excel
+📘 Project Overview
+
+This project explores hospital operations and patient data using Microsoft Excel.
+The goal was to transform raw hospital data into actionable insights that can help improve decision-making in areas such as billing, staffing, and patient care.
+
+ Objectives
+The analysis focused on five key questions:
+
+1️⃣ Bill per Department
+Which departments generate the highest average bills, and what does that reveal about hospital costs?
+2️⃣ Number of Patients per Doctor
+How evenly are patients distributed among doctors?
+3️⃣ Number of Patients per Diagnosis
+What are the most common medical conditions among patients?
+4️⃣ Average Stay of Patients (by Department and Doctor)
+How long do patients stay on average, and what might longer stays indicate?
+5️⃣ Insured vs Non-Insured Patients
+What proportion of patients are insured, and how does that impact revenue and accessibility?
+
+🧩 Data Cleaning & Preparation
+Steps performed in Excel:
+Removed duplicates and missing values
+Standardized column names
+Converted text fields to proper data types (dates, numbers, categories)
+Created helper columns for analysis (e.g., Average Bill, Insurance Status)
+
+Analysis & Insights
+Theme	Key Insight
+Bill per Department	Orthopedics and Pediatrics recorded the highest average bills — major revenue drivers but also potential cost pressure points.
+Patients per Doctor	Some doctors handle significantly more patients, suggesting a need for workload balancing.
+Patients per Diagnosis	Heart disease and cancer were the most common diagnoses — key areas for preventive care.
+Average Stay (by Dept & Doctor)	Longer stays in Orthopedics and Neurology likely due to complex post-surgery recovery.
+Insured vs Non-Insured	Majority of patients were insured, but a notable number weren’t — room for flexible payment options or new insurance partners.
+
+Tools & Skills Used
+Microsoft Excel (Data Cleaning, Pivot Tables, Charts, Dashboarding)
+Descriptive Statistics for insight generation
+Data Visualization for presenting findings clearly
+
+Key Takeaways
+This project demonstrates how Excel can be used for real-world analytics — from raw data cleaning to actionable insights — without the need for advanced BI tools.
+It also showcases critical thinking and storytelling with data, essential skills for a data analyst.
+
+
+Connect with Me:
+mariasandr8258@gmail.com 
